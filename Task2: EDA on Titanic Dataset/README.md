@@ -12,7 +12,7 @@
 - Python  
 - Pandas, Matplotlib, Seaborn  
 
-## 📌 Covered Topics
+## Covered Topics
 - Data cleaning and preprocessing  
 - Handling missing values  
 - Visual exploration of data  
