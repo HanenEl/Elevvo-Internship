@@ -6,7 +6,7 @@
 - Add KPIs, charts, and slicers for better insights  
 
 ## Dataset
-- [Analysis Sales Dataset]([https://www.kaggle.com/datasets/rohitsahoo/superstore](https://docs.google.com/spreadsheets/d/1kDrL0e3kITsNY3j6APs7_OXLtfzuX0Y6/edit?usp=sharing&ouid=117728695482142390922&rtpof=true&sd=true))  
+- [Analysis Sales Dataset](https://docs.google.com/spreadsheets/d/1kDrL0e3kITsNY3j6APs7_OXLtfzuX0Y6/edit?usp=sharing&ouid=117728695482142390922&rtpof=true&sd=true)  
 
 ## Tools & Libraries
 - Power BI Desktop  
