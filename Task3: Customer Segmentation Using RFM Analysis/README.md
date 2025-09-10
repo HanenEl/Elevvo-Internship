@@ -10,7 +10,7 @@
 
 ## Tools & Libraries
 - Python  
-- Pandas, Seaborn (or Excel)  
+- Pandas, Seaborn, Matplotlib  
 
 ## Covered Topics
 - Feature engineering: Recency, Frequency, Monetary metrics  
