@@ -1,14 +1,14 @@
 # Task 2: Exploratory Data Analysis on Titanic Dataset
 
-## 📊 Description
+## Description
 - Perform EDA on the Titanic dataset to understand passenger survival patterns  
 - Handle missing values and clean categorical variables  
 - Create visualizations to explore correlations between features and survival  
 
-## 📂 Dataset
+## Dataset
 - [Titanic Dataset (Kaggle)](https://www.kaggle.com/c/titanic/data)  
 
-## 🛠 Tools & Libraries
+## Tools & Libraries
 - Python  
 - Pandas, Matplotlib, Seaborn  
 
